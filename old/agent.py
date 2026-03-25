@@ -1,4 +1,4 @@
-from llm import LLM
+from core.llm import LLM
 
 
 # ✅ 简单“伪真实”检索器（替代 Dummy）

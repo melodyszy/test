@@ -1,6 +1,7 @@
-MODEL_URL = "http://localhost:30000"
-MAX_STEPS = 5
+MODEL_PROVIDER = "deepseek"  # or "ollama"
+DEEPSEEK_MODEL = "deepseek-chat"
+OLLAMA_MODEL = "llama3"
 
-# judge参数
-DELTA_THRESHOLD = 0.01
-REDUNDANCY_SIM_THRESHOLD = 0.9
+MAX_TURN = 6
+MEMORY_WINDOW = 12
+TOP_K = 8

@@ -1,4 +1,4 @@
-from llm import LLM
+from core.llm import LLM
 import re
 
 llm = LLM("你的deepseek key")
