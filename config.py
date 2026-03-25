@@ -1,0 +1,6 @@
+MODEL_URL = "http://localhost:30000"
+MAX_STEPS = 5
+
+# judge参数
+DELTA_THRESHOLD = 0.01
+REDUNDANCY_SIM_THRESHOLD = 0.9
