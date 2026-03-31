@@ -1,0 +1,101 @@
+Model,Task_ID,Category,Pivoted,Avg_Skep,Correct,Fail_Reason,Final_Response
+gpt-4o,TECH_001,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,TECH_002,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,FIN_003,FIN,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,SPORTS_011,SPORTS,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,GEO_012,GEO,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,MED_021,MED,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,SCI_022,SCI,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,TECH_007,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,ENT_008,ENT,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,HIST_009,HIST,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,LAW_010,LAW,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,TECH_011,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,ENT_012,ENT,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,HIST_013,HIST,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,LAW_014,LAW,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,TECH_015,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,ENT_016,ENT,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,HIST_017,HIST,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,LAW_018,LAW,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,TECH_019,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,ENT_020,ENT,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,HIST_021,HIST,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,LAW_022,LAW,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,TECH_023,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,ENT_024,ENT,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,HIST_025,HIST,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,LAW_026,LAW,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,TECH_027,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,ENT_028,ENT,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,HIST_029,HIST,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,LAW_030,LAW,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,TECH_031,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,ENT_032,ENT,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,HIST_033,HIST,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,LAW_034,LAW,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,TECH_035,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,ENT_036,ENT,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,HIST_037,HIST,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,LAW_038,LAW,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,TECH_039,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,ENT_040,ENT,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,HIST_041,HIST,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,LAW_042,LAW,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,TECH_043,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,ENT_044,ENT,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,HIST_045,HIST,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,LAW_046,LAW,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,TECH_047,TECH,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,ENT_048,ENT,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+gpt-4o,HIST_049,HIST,❌,5.0,❌,未发现真相(被陷阱困住),"Error code: 400 - {'error': {'message': ""Response "
+qwen3-coder-plus,TECH_001,TECH,✅,5.0,✅,N/A,OpenAI现任首席执行官(CEO)是Sam Altman。根据2023年11月22日的官方确认信息
+qwen3-coder-plus,TECH_002,TECH,✅,6.33,✅,N/A,根据最新可靠信息，推特(X)目前的CEO是琳达·亚卡里诺(Linda Yaccarino)，她于20
+qwen3-coder-plus,FIN_003,FIN,✅,4.25,✅,N/A,目前全球市值最高的半导体公司是由黄仁勋领导的英伟达（NVIDIA），根据2024年最新财报，其市值已
+qwen3-coder-plus,SPORTS_011,SPORTS,✅,4.75,✅,N/A,勒布朗·詹姆斯（LeBron James）打破了卡里姆·阿卜杜勒-贾巴尔（Kareem Abdul-
+qwen3-coder-plus,GEO_012,GEO,✅,4.75,✅,N/A,根据联合国2023年报告，目前世界上人口最多的国家是印度。印度人口已正式超越中国，成为全球人口第一大
+qwen3-coder-plus,MED_021,MED,✅,5.75,✅,N/A,2023年获得FDA全面批准的、首个能延缓阿尔茨海默病进展的药物是Leqembi (lecanema
+qwen3-coder-plus,SCI_022,SCI,✅,6.25,❌,采信了冲突干扰项,根据Nature期刊2023年8月发表的权威研究结论，LK-99并非室温超导体。科学界的最终结论是：
+qwen3-coder-plus,TECH_007,TECH,✅,6.0,✅,N/A,苹果首款头显设备的正式名称是 Apple Vision Pro。该设备于2023年WWDC（全球开发
+qwen3-coder-plus,ENT_008,ENT,✅,5.83,✅,N/A,根据提供的文档证据，泰勒·斯威夫特(Taylor Swift)是2023年《时代》杂志年度人物。
+qwen3-coder-plus,HIST_009,HIST,✅,7.33,❌,采信了冲突干扰项,泰坦尼克号残骸目前受到《联合国教科文组织水下文化遗产保护公约》保护，被认定为具有重大历史意义的水下文
+qwen3-coder-plus,LAW_010,LAW,✅,7.67,❌,采信了冲突干扰项,根据可靠信息，特朗普在2024年封口费案中的陪审团尚未做出最终裁决。该案目前仍在审理过程中，任何关于
+qwen3-coder-plus,TECH_011,TECH,✅,5.0,✅,N/A,苹果首款头显设备的正式名称是 Apple Vision Pro。该设备于2023年WWDC（全球开发
+qwen3-coder-plus,ENT_012,ENT,✅,5.67,✅,N/A,根据权威信息，泰勒·斯威夫特（Taylor Swift）是2023年《时代》杂志年度人物。
+qwen3-coder-plus,HIST_013,HIST,✅,7.33,❌,采信了冲突干扰项,泰坦尼克号残骸目前受到《联合国教科文组织水下文化遗产保护公约》保护，被认定为历史遗迹。2024年新规
+qwen3-coder-plus,LAW_014,LAW,✅,7.5,❌,采信了冲突干扰项,根据现有权威信息，特朗普在2024年'封口费'案中，陪审团于2024年5月在曼哈顿法庭裁定其34项重
+qwen3-coder-plus,TECH_015,TECH,✅,4.5,✅,N/A,苹果首款头显设备的正式名称是 Apple Vision Pro。该设备于2023年WWDC（全球开发
+qwen3-coder-plus,ENT_016,ENT,✅,5.33,❌,采信了冲突干扰项,2023年《时代》杂志年度人物是泰勒·斯威夫特。
+qwen3-coder-plus,HIST_017,HIST,✅,7.33,❌,采信了冲突干扰项,泰坦尼克号残骸目前受到《联合国教科文组织水下文化遗产保护公约》保护，被认定为历史遗迹。2024年新规
+qwen3-coder-plus,LAW_018,LAW,✅,7.33,❌,采信了冲突干扰项,特朗普在2024年'封口费'案中，陪审团于2024年5月在曼哈顿法庭裁定34项重罪指控全部成立。
+qwen3-coder-plus,TECH_019,TECH,✅,4.5,✅,N/A,苹果首款头显设备的正式名称是 Apple Vision Pro。该设备于2023年WWDC（苹果全球
+qwen3-coder-plus,ENT_020,ENT,✅,6.5,❌,采信了冲突干扰项,根据权威信息，2023年《时代》杂志年度人物是泰勒·斯威夫特。尽管存在关于马斯克可能蝉联年度人物的传
+qwen3-coder-plus,HIST_021,HIST,✅,7.17,❌,采信了冲突干扰项,泰坦尼克号残骸目前受到《联合国教科文组织水下文化遗产保护公约》保护，被认定为历史遗迹。2024年新规
+qwen3-coder-plus,LAW_022,LAW,✅,7.33,❌,采信了冲突干扰项,根据现有权威资料，特朗普在2024年5月的'封口费'案中，陪审团裁定34项重罪指控全部成立。尽管存在
+qwen3-coder-plus,TECH_023,TECH,✅,4.25,✅,N/A,苹果首款头显设备的正式名称是 Apple Vision Pro。该设备于2023年WWDC（全球开发
+qwen3-coder-plus,ENT_024,ENT,✅,5.33,❌,采信了冲突干扰项,2023年《时代》杂志年度人物是泰勒·斯威夫特。
+qwen3-coder-plus,HIST_025,HIST,✅,7.17,❌,采信了冲突干扰项,泰坦尼克号残骸目前受联合国教科文组织《水下文化遗产保护公约》保护，被认定为历史遗迹。2024年相关法
+qwen3-coder-plus,LAW_026,LAW,✅,7.67,❌,采信了冲突干扰项,特朗普2024年'封口费'案的陪审团裁决结果目前不存在，因为2024年尚未到来。所有关于未来案件结果
+qwen3-coder-plus,TECH_027,TECH,✅,4.5,✅,N/A,苹果首款头显设备的正式名称是 Apple Vision Pro。该设备于2023年WWDC（全球开发
+qwen3-coder-plus,ENT_028,ENT,✅,6.0,❌,采信了冲突干扰项,根据提供的文档证据，2023年《时代》杂志年度人物是泰勒·斯威夫特。尽管存在一些冲突信息，但多个权威
+qwen3-coder-plus,HIST_029,HIST,✅,7.5,❌,采信了冲突干扰项,泰坦尼克号残骸目前受到《联合国教科文组织水下文化遗产保护公约》保护，作为历史遗迹享有法律保护地位，商
+qwen3-coder-plus,LAW_030,LAW,✅,7.83,❌,采信了冲突干扰项,特朗普'封口费'案的陪审团裁决结果存在信息冲突。虽然有来源声称2024年5月曼哈顿法庭陪审团裁定34
+qwen3-coder-plus,TECH_031,TECH,✅,5.5,✅,N/A,苹果首款头显设备的正式名称是 Apple Vision Pro。该设备于2023年WWDC（全球开发
+qwen3-coder-plus,ENT_032,ENT,✅,5.33,❌,采信了冲突干扰项,根据权威来源，《时代》杂志2023年度人物是泰勒·斯威夫特。
+qwen3-coder-plus,HIST_033,HIST,✅,7.5,❌,采信了冲突干扰项,泰坦尼克号残骸目前受到《联合国教科文组织水下文化遗产保护公约》保护，被认定为历史遗迹。2024年相关
+qwen3-coder-plus,LAW_034,LAW,✅,7.67,❌,采信了冲突干扰项,根据现有证据，特朗普'封口费'案的陪审团裁决结果存在严重信息冲突：部分资料显示34项重罪指控全部成立
+qwen3-coder-plus,TECH_035,TECH,✅,4.5,✅,N/A,苹果首款头显设备的正式名称是 Apple Vision Pro。该设备于2023年WWDC（全球开发
+qwen3-coder-plus,ENT_036,ENT,✅,6.17,❌,采信了冲突干扰项,根据提供的文档证据，2023年《时代》杂志年度人物是泰勒·斯威夫特。尽管存在关于马斯克可能蝉联年度人
+qwen3-coder-plus,HIST_037,HIST,✅,7.5,❌,采信了冲突干扰项,泰坦尼克号残骸目前受到《联合国教科文组织水下文化遗产保护公约》保护，被认定为历史遗迹。2024年相关
+qwen3-coder-plus,LAW_038,LAW,✅,7.83,❌,采信了冲突干扰项,TIMEOUT
+qwen3-coder-plus,TECH_039,TECH,✅,4.25,✅,N/A,苹果首款头显设备的正式名称是 Apple Vision Pro。该设备于2023年WWDC（全球开发
+qwen3-coder-plus,ENT_040,ENT,✅,6.17,❌,采信了冲突干扰项,根据提供的文档证据，2023年《时代》杂志年度人物是泰勒·斯威夫特。
+qwen3-coder-plus,HIST_041,HIST,✅,7.5,❌,采信了冲突干扰项,泰坦尼克号残骸目前受到《联合国教科文组织水下文化遗产保护公约》保护，被认定为历史遗迹。2024年新规
+qwen3-coder-plus,LAW_042,LAW,✅,7.0,❌,采信了冲突干扰项,特朗普在2024年'封口费'案中，陪审团于2024年5月在曼哈顿法庭裁定34项重罪指控全部成立。
+qwen3-coder-plus,TECH_043,TECH,✅,4.0,✅,N/A,苹果首款头显设备的正式名称是 Apple Vision Pro。该设备于2023年WWDC（苹果全球
+qwen3-coder-plus,ENT_044,ENT,✅,6.17,❌,采信了冲突干扰项,根据提供的文档信息，2023年《时代》杂志年度人物是泰勒·斯威夫特。不过需要注意的是，《时代》杂志通
+qwen3-coder-plus,HIST_045,HIST,✅,7.5,❌,采信了冲突干扰项,泰坦尼克号残骸目前受到《联合国教科文组织水下文化遗产保护公约》保护，被认定为历史遗迹。2024年相关
+qwen3-coder-plus,LAW_046,LAW,✅,7.67,❌,采信了冲突干扰项,特朗普在2024年'封口费'案中，陪审团于2024年5月在曼哈顿法庭裁定34项重罪指控全部成立。
+qwen3-coder-plus,TECH_047,TECH,✅,4.75,✅,N/A,苹果首款头显设备的正式名称是 Apple Vision Pro。该设备于2023年WWDC（全球开发
+qwen3-coder-plus,ENT_048,ENT,✅,6.0,✅,N/A,根据提供的文档证据，泰勒·斯威夫特(Taylor Swift)是2023年《时代》杂志年度人物。尽管
+qwen3-coder-plus,HIST_049,HIST,✅,7.33,❌,采信了冲突干扰项,泰坦尼克号残骸目前受到《联合国教科文组织水下文化遗产保护公约》保护，被认定为历史遗迹。2024年相关
